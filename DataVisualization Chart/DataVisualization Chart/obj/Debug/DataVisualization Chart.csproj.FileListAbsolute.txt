@@ -1,0 +1,10 @@
+M:\DataVisualization Chart\DataVisualization Chart\bin\Debug\DataVisualization Chart.exe.config
+M:\DataVisualization Chart\DataVisualization Chart\bin\Debug\DataVisualization Chart.exe
+M:\DataVisualization Chart\DataVisualization Chart\bin\Debug\DataVisualization Chart.pdb
+M:\DataVisualization Chart\DataVisualization Chart\obj\Debug\DataVisualization Chart.csproj.AssemblyReference.cache
+M:\DataVisualization Chart\DataVisualization Chart\obj\Debug\DataVisualization_Chart.Form1.resources
+M:\DataVisualization Chart\DataVisualization Chart\obj\Debug\DataVisualization_Chart.Properties.Resources.resources
+M:\DataVisualization Chart\DataVisualization Chart\obj\Debug\DataVisualization Chart.csproj.GenerateResource.cache
+M:\DataVisualization Chart\DataVisualization Chart\obj\Debug\DataVisualization Chart.csproj.CoreCompileInputs.cache
+M:\DataVisualization Chart\DataVisualization Chart\obj\Debug\DataVisualization Chart.exe
+M:\DataVisualization Chart\DataVisualization Chart\obj\Debug\DataVisualization Chart.pdb
